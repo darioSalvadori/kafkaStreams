@@ -7,4 +7,6 @@ Data Stream Processing for Newbies with Kafka, KSQL, and PostgresA fully-reprodu
 
    
 https://medium.com/bakdata/queryable-kafka-topics-with-kafka-streams-8d2cca9de33f
-(1 Mi piace)Queryable Kafka Topics with Kafka StreamsIn today’s data processing architectures, Apache Kafka is often used at the ingress stage. Usually, this step is used to enrich and filter…medium.com
+Queryable Kafka Topics with Kafka StreamsIn today’s data processing architectures, Apache Kafka is often used at the ingress stage. Usually, this step is used to enrich and filter…medium.com
+
+https://medium.com/@deepeshn1988/fraud-detection-systems-a-second-look-a8f705624783
