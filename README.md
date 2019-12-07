@@ -1,6 +1,5 @@
 # kafkaStreams
 https://github.com/confluentinc/kafka-streams-examples
-[05/11 17:59] dario Salvadori
     
 https://medium.com/high-alpha/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres-c30309cfaaf8
 Data Stream Processing for Newbies with Kafka, KSQL, and PostgresA fully-reproducible, dockerized, step-by-step tutorial for dipping your toes into the data stream.medium.com
